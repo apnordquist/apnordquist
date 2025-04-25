@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I was a Town Planner for 10 years. I am now transitioning into tech with a focus on bringing my knowledge of development of the real world into the digital one.
+
 <!--
 **apnordquist/apnordquist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
