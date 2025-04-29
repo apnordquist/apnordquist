@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I was a Town Planner for 10 years. I am now transitioning into tech with a focus on bringing my knowledge of development of the real world into the digital one.</p>
+<p align="left">I was a Town Planner for 10 years with mid-size cities. I worked closely with both the public and industry stakeholders to create and implement policies related to matters of design; looking for ways to improve the lived environment through thoughtful implementation of architectural and climate-based standards and practices. I am now transitioning into the technology industry with a focus on bringing my knowledge of development of the real world into the digital one. I aspire to bring my love of design to improve user experience and remove any barriers to access of the digital world.</p>
 
 ###
 
